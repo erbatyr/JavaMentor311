@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: erbatyr
+Build-Jdk: 13.0.2
+Implementation-Title: crud_app_springboot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.erbatyr
+Main-Class: com.erbatyr.crud_app_springboot.CrudAppSpringbootApplication
+

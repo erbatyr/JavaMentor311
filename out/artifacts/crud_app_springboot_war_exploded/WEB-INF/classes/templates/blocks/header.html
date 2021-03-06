@@ -1,0 +1,8 @@
+<div th:fragment="header">
+    <nav class="navbar navbar-light bg-light navbar-dark bg-dark">
+        <div class="container-fluid">
+            <p class="navbar-text text-white bg-dark"><span sec:authentication="name"/> with roles: <span sec:authentication="principal.authorities"></span></p>
+            <button class="btn btn-dark" type="button">Logout</button>
+        </div>
+    </nav>
+</div>
